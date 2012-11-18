@@ -1,4 +1,4 @@
-#Base16 Color Palette for Photoshop CS
+#Base16 for Photoshop CS
 
 The fantastic color scheme Base16 made available as a simple Color Palette (.aco) importable into Photoshop!
 
